@@ -1,3 +1,11 @@
+'''
+ File Name: copyfile.py
+ Author's Name: Tamanna Yasmin Jitu
+ Student Number: 300924009
+ Date: July 31, 2020
+ Description: Copy one file content to another file
+'''
+
 Source = input(" Source : ")
 Destination = input(" Destination : ")
 with open(Source) as file1:
